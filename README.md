@@ -57,7 +57,7 @@ timezone-event-booking/
 │  └─ scheduler.js
 ├─ server.js
 ├─ package.json
-|- .env
+├─ .env
 ```
 
 ## Technologies Used
