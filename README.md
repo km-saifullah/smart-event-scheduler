@@ -85,7 +85,7 @@ npm install
 3. Start the server
 
 ```bash
-npm satrt
+npm start
 ```
 
 ## API Documentation
